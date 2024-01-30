@@ -76,6 +76,10 @@ color:#404BBF
 color: #404bbf
 }
 
+.adress-list {
+font-style: normal
+}
+
 .order-section {
 background-color:#2E2F42;
 }
@@ -91,7 +95,6 @@ letter-spacing: 1.12px;
 
 .order-button {
 background-color: #4D5AE5;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 font-size: 16px;
 font-weight: 500;
 letter-spacing: 0.64px;
@@ -129,7 +132,7 @@ color:#2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.1111111;
+line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize; 
 }
@@ -141,6 +144,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.4px; 
+background-color: #FFFFFF
 }
 
 .team-member-position {
